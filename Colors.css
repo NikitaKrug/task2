@@ -1,0 +1,132 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav,
+section {
+  display: block;
+}
+  
+body {
+  line-height: 1.2;
+}
+ol {
+  padding-left: 1.4em;
+  list-style: decimal;
+}
+ul {
+  padding-left: 1.4em;
+  list-style: square;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+body{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+#vec1,#vec2,#vec3{
+  position: absolute;
+}
+#vec1{
+  width: 48px;
+  height: 48px;
+  left: 30px;
+  top: 30px;
+}
+#vec2{
+  width: 14.12px;
+  height: 14.12px;
+  left: 41.29px;
+  top: 48.35px;
+}
+#vec3{
+  width: 10.94px;
+  height: 7.09px;
+  left: 55.77px;
+  top: 48.35px;
+}
+#gr1{
+  position: absolute;
+  width: 281.26px;
+  height: 610px;
+  left: 149.74px;
+  top: 145px;
+  float: left;
+}
+.h2{
+  font-weight: 700;
+}
+.text1{
+  vertical-align: middle;
+  padding-left: 40px;
+  font-size: 19px;
+  line-height: 28px;
+}
+.gr11{
+  margin-bottom: 12.8px;
+}
+h1{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+}
+h2{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 23px;
+}
+h3{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+}
+#gr2{
+  position: absolute;
+  width: 436px;
+  height: 321px;
+  left: 846px;
+  top: 145px;
+}
+.text21{
+  text-align: right;
+}
+.text22{
+  padding-bottom: 50px;
+  padding-left: 30px;
+}
+#text221{
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+}
+#text222{
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 23px;
+}
+#text223{
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 15px;
+}

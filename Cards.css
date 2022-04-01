@@ -1,0 +1,153 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav,
+section {
+  display: block;
+}
+  
+body {
+  line-height: 1.2;
+}
+ol {
+  padding-left: 1.4em;
+  list-style: decimal;
+}
+ul {
+  padding-left: 1.4em;
+  list-style: square;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+body{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
+h1{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+}
+h2{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 23px;
+}
+h3{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 15px;
+}
+
+#vec1,#vec2,#vec3{
+  position: absolute;
+}
+#vec1{
+  width: 48px;
+  height: 48px;
+  left: 30px;
+  top: 30px;
+}
+#vec2{
+  width: 14.12px;
+  height: 14.12px;
+  left: 41.29px;
+  top: 48.35px;
+}
+#vec3{
+  width: 10.94px;
+  height: 7.09px;
+  left: 55.77px;
+  top: 48.35px;
+}
+
+#dv1{
+  position: absolute;
+  width: 380px;
+  height: 374px;
+  left: 140px;
+  top: 150px;
+
+}
+#dv2{
+  position: absolute;
+ width: 380px;
+  height: 646px;
+  left: 140px;
+  top: 564px;
+  
+}
+#dv3{
+  position: absolute;
+  width: 380px;
+  height: 512px;
+  left: 560px;
+  top: 152px;
+
+}
+
+#dv4{
+  position: absolute;
+  width: 380px;
+  height: 358px;
+  left: 560px;
+  top: 704px;
+
+}
+
+#dv5{
+  position: absolute;
+  width: 320px;
+  height: 369px;
+  left: 980px;
+  top: 150px;
+  
+}
+#dv6{
+  position: absolute;
+  width: 270px;
+  height: 257px;
+  left: 980px;
+  top: 559.5px;
+  
+}
+#dv7{
+  position: absolute;
+  width: 270px;
+  height: 257px;
+  left: 980px;
+  top: 856.5px;
+  
+}
+.box{
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  box-sizing: border-box;
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  padding-top: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
